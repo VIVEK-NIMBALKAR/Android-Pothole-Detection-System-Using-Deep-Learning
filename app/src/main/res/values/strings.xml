@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">pothole-detection-system</string>
+    <string name="sign_in">Sign in with Google</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="getting_started">Get Started</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="logout">Logout</string>
+    <string name="sampletext">SampleText</string>
+    <string name="additional_information">Additional Information :</string>
+    <string name="road">Road</string>
+    <string name="address">Address :</string>
+    <string name="password">Password :</string>
+    <string name="submit">Submit</string>
+    <string name="classified_as">Classified as :</string>
+    <string name="answer">Answer</string>
+    <string name="image_to_be_predicted">image_to_be_predicted</string>
+    <string name="road_name">Road Name</string>
+    <string name="Question_1">Q1. Location of pothole that is found.</string>
+    <string name="Question_2">Q2. Suffering from this problem for how
+        many day ?</string>
+    <string name="Question_4">Q4. How many accident occurred since
+        that day ?</string>
+    <string name="Question_3">Q3. Condition of road rate it from 1 to
+        100 ?</string>
+    <string name="camera">Camera</string>
+    <string name="form">Form</string>
+    <string name="next">Next</string>
+    <string name="sppu">Savitribai Phule Pune University</string>
+    <string name="_72022242h">72022242H</string>
+    <string name="_72022240m">72022240M</string>
+    <string name="_72022379c">72022379C</string>
+    <string name="pranav_kulkarni">Pranav Kulkarni</string>
+    <string name="ketan_kulkarni">Ketan Kulkarni</string>
+    <string name="app_owner_vivek_nimbalkar">Vivek Nimbalkar</string>
+    <string name="made_by">Made by :</string>
+    <string name="sppu_logo_image">sppu_logo_image</string>
+    <string name="register">REGISTER</string>
+</resources>
